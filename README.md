@@ -1,2 +1,2 @@
 # Combining-the-DSA-Con-and-Bylaws
-Combining the DSA Constitution and Bylaws into a single document
+The purpose of this project is to combine the DSA Constitution and Bylaws into a single document. This is to reduce complexity and eliminate redundancies in the original documents.
